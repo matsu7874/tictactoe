@@ -1,4 +1,4 @@
-use gomoku::{
+use tictactoe::{
     game::State,
     play,
     strategy::{
